@@ -1,0 +1,32 @@
+[
+    {
+        "cid":1,
+        "name":"abc",
+        "desc":"In this course, you will learn the basics about abc as they are very usefull in real life",
+        "faculty":["1a1","2b2","3c3"]
+    },
+    {
+        "cid":2,
+        "name":"def",
+        "desc":"In this course, you will learn the basics about abc as they are very usefull in real life",
+        "faculty":["2b2","3c3","4d4"]
+    },
+    {
+        "cid":3,
+        "name":"ghi",
+        "desc":"In this course, you will learn the basics about abc as they are very usefull in real life",
+        "faculty":["3c3","4d4","5e5"]
+    },
+    {
+        "cid":4,
+        "name":"jkl",
+        "desc":"In this course, you will learn the basics about abc as they are very usefull in real life",
+        "faculty":["1a1","3c3","5e5"]
+    },
+    {
+        "cid":5,
+        "name":"mno",
+        "desc":"In this course, you will learn the basics about abc as they are very usefull in real life",
+        "faculty":["2b2","4d4","3c3"]
+    }
+]

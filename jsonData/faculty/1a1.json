@@ -1,0 +1,10 @@
+{
+    "username":"1a1",
+    "password":"1a1",
+    "name":"aaa",
+    "surname":"bbb",
+    "courses":[1,4],
+    "cabin":"ccc",
+    "phno":"1111111111",
+    "email":"aaa.bbb@gmail.com"
+}
